@@ -53,7 +53,7 @@ Upload your agency's logo! (85 x 85 px)
 
 - [Create a Site](/docs/articles/sites/create)
 - [Migrate Sites to Pantheon](/docs/articles/sites/migrate)
-- Read the [FAQs](/docs/articles/organizations/pantheon-for-agencies/faq)
+- Read the [FAQs](/docs/articles/organizations/pantheon-for-agencies-faq)
 - Learn about Pantheon for Agencies features:
   - [Change Management](/docs/articles/organizations/change-management)
   - [Multidev](/docs/articles/sites/multidev)

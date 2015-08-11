@@ -37,4 +37,4 @@ $ terminus organizations list
 ## More Resources
 
 - [Pantheon for Agencies](/docs/articles/organizations/pantheon-for-agencies)
-- [P4A FAQ](/docs/articles/organizations/pantheon-for-agencies/faq)
+- [Pantheon for Agencies FAQ](/docs/articles/organizations/pantheon-for-agencies-faq)
