@@ -26,7 +26,7 @@ The person who creates the site owns it until someone else starts paying for it.
 
 ### Where can I learn more about these roles?
 
-Please see our [Change Management documentation](/docs/articles/organizations/change-management).
+See our [Change Management documentation](/docs/articles/organizations/change-management).
 
 ### How do we add new sites to an Organization?
 
